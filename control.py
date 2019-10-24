@@ -56,6 +56,7 @@ def doit():
 if __name__ == '__main__':
     bottle.debug(True)
 
-    media_dir = '/home/pi/files'
+    # media_dir = '/home/pi/files'
+    media_dir = '/home/pi/dev/punkin_pi/files'
     import blinken
     bottle.run(host='0.0.0.0', port=8081, reloader=True)
