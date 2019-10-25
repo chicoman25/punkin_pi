@@ -4,6 +4,8 @@ Scary Halloween pumpkin with lights and sound controlled by a Raspberry Pi.  Ref
 
 Written by Bonnie King and Drew Fustini.  Code and design is public domain.  These instructions were tested on the current Raspbian 2012-Sept-18 image from http://www.raspberrypi.org/downloads.
 
+https://www.element14.com/community/community/raspberry-pi/blog/2012/10/18/pumpkin-pi-project-for-halloween
+
 Install dependencies:
 ---------------------
 <code>
